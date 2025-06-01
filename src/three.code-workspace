@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "three",
+			"path": ".."
+		},
+		{
+			"name": "public",
+			"path": "../../my-three-app/public"
+		}
+	],
+	"settings": {}
+}
